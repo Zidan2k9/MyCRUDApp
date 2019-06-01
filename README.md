@@ -33,8 +33,8 @@ $ npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Zain Ul-Abdeen
+[Zidan2k9](http://www.github.com/Zidan2k9)
 
 ### License
 
