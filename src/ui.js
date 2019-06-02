@@ -102,7 +102,7 @@ class UI {
 
       //Create cancel button
       const button = document.createElement('button');
-      button.className = 'post-cancel btn btn-light btn-block';
+      button.className = 'post-cancel btn btn-dark btn-block';
       button.appendChild(document.createTextNode('Cancel Edit'));
 
       //Get parent
@@ -119,7 +119,7 @@ class UI {
     }
     else{
       this.postSubmit.textContent = 'Post It';
-      this.postSubmit.className = 'post-submit btn btn-primary btn-block';
+      this.postSubmit.className = 'post-submit btn btn-dark btn-block';
       
       //Remove cancel button if it is there
       if(document.querySelector('.post-cancel')){

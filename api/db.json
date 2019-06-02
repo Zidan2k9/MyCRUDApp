@@ -1,9 +1,9 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post One",
-      "body": "This is post one"
+      "title": "My first post",
+      "body": "Lorem epsom blah blah",
+      "id": 1
     },
     {
       "id": 2,
@@ -11,9 +11,9 @@
       "body": "This is post two"
     },
     {
-      "title": "Post Three",
-      "body": "This is post three",
-      "id": 3
+      "title": "This is a sample post",
+      "body": "Hello World :D !",
+      "id": 4
     }
   ]
 }
